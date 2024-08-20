@@ -9,7 +9,7 @@ export default function Index() {
         alignItems: "center",
       }}
     >
-      <Text>Come on then</Text>
+      <Text>Come on then.. Testing dev branch</Text>
     </View>
   );
 }
